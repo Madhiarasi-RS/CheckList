@@ -13,6 +13,15 @@ A beautiful, full-stack task management application built with Next.js, MongoDB,
 - **Real-time Updates**: Instant feedback with toast notifications
 - **Docker Support**: Containerized for easy deployment
 
+  ---
+  ## 🌐 Live Demo
+
+- You can try out the live version of CheckList below:
+- **CheckList**: https://check-list-sooty.vercel.app/
+- Feel free to explore the platform,and start your journey!
+
+  ---
+
 ## 🛠️ Tech Stack
 
 - **Frontend**: Next.js 13, React, TypeScript, Tailwind CSS
